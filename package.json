@@ -13,10 +13,10 @@
     "lib": "lib"
   },
   "engines": {
-    "node": "~0.2"
+    "node": "latest"
   },
   "dependencies": {
-    "oauth-client": "~0.1.5"
+    "oauth-client": "latest"
   },
   "main": "lib/etsy.js",
   "homepage": "https://github.com/Imperion/node-etsy"
